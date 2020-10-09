@@ -1,0 +1,9 @@
+[
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/rasio/Development/code/nuxt-vercel-test/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_773a1090"
+  }
+]
